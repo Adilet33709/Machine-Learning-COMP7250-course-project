@@ -1,1 +1,1 @@
-This repository contains materials for COMP7250 (Machine Learning) course project at Hong Kong Baptist University. 
+This repository contains materials for COMP7250 (Machine Learning) course project at Hong Kong Baptist University. In this project, I investigated the effectiveness of various data augmentation techniques for binary image classification. The code was built using Pytorch. 
