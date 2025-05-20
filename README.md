@@ -1,1 +1,1 @@
-This repository contains COMP7250 (Machine Learning) course project materials at Hong Kong Baptist University. 
+This repository contains materials for COMP7250 (Machine Learning) course project at Hong Kong Baptist University. 
